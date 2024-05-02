@@ -12,4 +12,4 @@ php-sr: php-sr.c
 
 clean:
 	rm -rf *.o
-	rm -f $(EXES)
+	rm -f $(EXECS)
