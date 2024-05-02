@@ -1,0 +1,24 @@
+# Repository-specific files
+php/php
+php/php-sr
+*.csv
+
+# Generated hinted proof files
+*.lrat
+*.clrat
+*.lpr
+*.clpr
+*.lsr
+*.clsr
+
+# Mac and dev
+*.swp
+*.swo
+*.DS_Store
+.vscode/*
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
